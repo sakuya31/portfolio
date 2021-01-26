@@ -153,7 +153,7 @@ main {
 
 .cont_item {
   width: 150px;
-  height: 230px;
+  height: 300px;
   display: flex;
   flex-direction: column;
   padding: 40px;
