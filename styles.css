@@ -172,8 +172,8 @@ main {
 
 .fade {
   opacity : 0.1;
-	transform : translate(0, 80px);
-	transition : all 500ms;
+	transform : translate(0, 90px);
+	transition : all 800ms;
 }
 
 .fade.scrollin {
