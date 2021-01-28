@@ -176,7 +176,7 @@ main {
 	transition : all 500ms;
 }
 
-.fadein.scrollin {
+.fade.scrollin {
 	opacity : 1;
 	transform : translate(0, 0);
 	}
